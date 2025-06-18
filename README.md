@@ -1,8 +1,8 @@
-## Olá! Eu sou a Bianca Bech
+## Hello! I'm Bianca Bech
 
-- 🔭 Hoje estou no processo de migração de área
-- 🌱 Estudando C# pelo Entra21 na cidade de Blumenau-SC
-- 😄 Pronouns: ela/dela
+- 🔭 Today I'm in the process of moving to another area
+- 🌱 Studying C# through Entra21 and Devs2Blu in the city of Blumenau-SC
+- 📫 How to reach me : biancapaulabech@gmail.com
 
 <!--
   <a href="https://github.com/biancabech">
