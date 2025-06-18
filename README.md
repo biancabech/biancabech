@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou no processo de migração de área
 - 🌱 Estudando C# pelo Entra21 na cidade de Blumenau-SC
-- 😄🗽🗽🗽🗽 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela
 
 <!--
   <a href="https://github.com/biancabech">
