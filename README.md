@@ -1,6 +1,6 @@
 ## Hello! I'm Bianca Bech
 
-- 🔭 Full-Stack Student [C#, .NET, Angular e MySQL]
+- 🔭 Full-Stack Student [ C#, .NET, Angular e MySQL ]
 - 🌱 Studying C# through Entra21 and Devs2Blu in the city of Blumenau-SC
 - 📫 How to reach me : biancapaulabech@gmail.com
 
